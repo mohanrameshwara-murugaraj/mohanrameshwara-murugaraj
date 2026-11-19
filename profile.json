@@ -1,0 +1,49 @@
+{
+  "user": "mohanrameshwara-murugaraj",
+  "name": ["Mohan", "Rameshwara"],
+  "kicker": "BUILDING LLM SYSTEMS IN NUREMBERG",
+  "tagline": "I build LLM systems that are safe to ship: guardrails, agents, evals and small distilled models.",
+  "link": {"text": "linkedin.com/in/mohan-rameshwara", "href": "https://www.linkedin.com/in/mohan-rameshwara/"},
+  "portrait": "assets/portrait.png",
+  "accent": "#2f55ff",
+
+  "heatmap_title": ["The year, ", "in blue"],
+
+  "tiles": [
+    {
+      "kicker": "BUILD",
+      "color": "#2f55ff",
+      "value": "public_repos",
+      "unit": "repos",
+      "sub": "Text-to-SQL guardrails, a forecasting agent, RAG and supply-chain analytics.",
+      "href": "https://github.com/mohanrameshwara-murugaraj?tab=repositories"
+    },
+    {
+      "kicker": "TEST",
+      "color": "#ef3b2d",
+      "value": 20,
+      "unit": "eval cases",
+      "sub": "Hallucinations, prompt injection and tool misuse, checked on my finance agent.",
+      "href": "https://github.com/mohanrameshwara-murugaraj/finance-forecast-agent"
+    },
+    {
+      "kicker": "CONNECT",
+      "color": "#ffc81a",
+      "big": "Say",
+      "unit": "hi",
+      "sub": "On LinkedIn. Happy to talk LLM systems, evals and small models.",
+      "href": "https://www.linkedin.com/in/mohan-rameshwara/"
+    }
+  ],
+
+  "featured": [
+    "text-to-sql-guardrails",
+    "finance-forecast-agent",
+    "model-distillation-pipeline"
+  ],
+
+  "footer": [
+    {"text": "linkedin", "href": "https://www.linkedin.com/in/mohan-rameshwara/"},
+    {"text": "all repos", "href": "https://github.com/mohanrameshwara-murugaraj?tab=repositories"}
+  ]
+}

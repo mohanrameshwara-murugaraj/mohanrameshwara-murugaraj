@@ -1,0 +1,42 @@
+{
+ "updated": "2026-11-19T12:00:00Z",
+ "public_repos": 7,
+ "repos": [
+  {
+   "name": "text-to-sql-guardrails",
+   "description": "Local LLM-powered Text-to-SQL with SQL safety, semantic validation, FastAPI, Streamlit, and reproducible evaluation",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "pushed_at": "2026-11-12T18:06:59Z",
+   "fork": false
+  },
+  {
+   "name": "finance-forecast-agent",
+   "description": "Built a LangChain AI agent that retrieves financial data, runs forecasts and what-if scenarios, and writes summaries, with a 20-case evaluation set covering factual accuracy, hallucinations, prompt injection, inappropriate tool use, and unintended disclosure.",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "pushed_at": "2026-11-14T13:47:41Z",
+   "fork": false
+  },
+  {
+   "name": "model-distillation-pipeline",
+   "description": "Exploring efficient banking AI through Qwen3 fine-tuning, lightweight language models, intelligent fallback design, and practical cost-performance trade-offs.",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "pushed_at": "2026-11-03T12:25:04Z",
+   "fork": false
+  },
+  {
+   "name": "retail-supply-chain-analytics",
+   "description": "End-to-end SQL + Python + Power BI supply chain analytics - stockout root cause analysis, supplier scorecarding, and demand forecasting for a retail chain.",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "pushed_at": "2026-11-14T16:25:13Z",
+   "fork": false
+  }
+ ]
+}
